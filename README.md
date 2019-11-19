@@ -85,6 +85,12 @@ From the codec data above, we know that pins 0x18, 0x19, 0x1a, and 0x1f support 
 
 ## Installation
 
+### Prerequisites
+
+JackFix relies on VerbStub.kext and hda-verb.  VerbStub can be downloaded from its project page.
+
+https://github.com/fewtarius/VerbStub 
+
 ### Getting JackFix
 
 To install JackFix, start by cloning this repository.  Once it's cloned edit the jackfix.sh script found in the script folder.
