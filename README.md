@@ -96,7 +96,7 @@ https://github.com/fewtarius/VerbStub
 To install JackFix, start by cloning this repository.  Once it's cloned edit the jackfix.sh script found in the script folder.
 
 ```
-$ git clone git@github.com:fewtarius/jackfix.git
+$ git clone https://github.com/fewtarius/jackfix.git
 $ vi jackfix/scripts/jackfix.sh
 ```
 
